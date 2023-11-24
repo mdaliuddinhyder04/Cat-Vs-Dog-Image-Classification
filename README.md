@@ -18,3 +18,4 @@ Dataset used: https://www.kaggle.com/c/dogs-vs-cats/data
 14. Convertion of labels to categories.
 15. Predicted result.
 16. Testing in custom data.
+# Thank You!
