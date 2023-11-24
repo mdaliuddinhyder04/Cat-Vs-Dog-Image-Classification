@@ -1,5 +1,5 @@
 # Cat-Vs-Dog-Image-Classification
-Dataset used: https://www.kaggle.com/c/dogs-vs-cats/data
+Dataset used: (https://www.kaggle.com/c/dogs-vs-cats/data)
 # Steps involved in this project:
 1. Importing libraries.
 2. Setting Image properties.
