@@ -19,4 +19,4 @@ Dataset used: (https://www.kaggle.com/c/dogs-vs-cats/data)
 15. Predicted result.
 16. Testing in custom data.
 
-* Thank You! 
+> Thank You
